@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1554519343 source:c:\users\maria\desktop\calculadora tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1554519319 c:\users\maria\desktop\calculadora tp\biblioteca.h
+
+1554519358 source:c:\users\maria\desktop\calculadora tp\biblioteca.c
+	<stdio.h>
+	"biblioteca.h"
+
+1567091268 source:e:\tp1\calculadora tp\biblioteca.c
+	<stdio.h>
+	"biblioteca.h"
+
+1567090854 e:\tp1\calculadora tp\biblioteca.h
+
+1567701326 source:e:\tp1\calculadora tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
