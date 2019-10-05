@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1557541337 source:c:\users\maria\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"biblioteca.h"
+
+1557541338 c:\users\maria\desktop\tp2\biblioteca.h
+
+1557540841 source:c:\users\maria\desktop\tp2\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"biblioteca.h"
+
+1569595138 source:e:\tp2\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"biblioteca.h"
+
+1557541340 e:\tp2\biblioteca.h
+
+1557541338 source:e:\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"biblioteca.h"
+
